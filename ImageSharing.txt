@@ -1,0 +1,14 @@
+//We still have to come up with a better name for the app.
+
+Nowadays, the easiest form of sending a hard document to someone is to fish out your smartphone and click a picture of it. We use a number of apps for sharing these such as WhatsApp (in most cases), GMail (for slightly more professional people). The information that's in the documents/images varies by user groups: College students might quickly take a snap of the Exam time table put up on the bulletin board, or the semester results, or an assignment that he wrote that he wants to share with his friends. People who work in offices might want to snap the week's agenda that's put up on the manager's cubicle or a business card that he is afraid of loosing and many other important documents.
+
+Let's say a person has a habit of sending and receiving such images (Whether it is through GMail or WhatsApp) and he/she needs something that he/she received 2 weeks earlier. If it's WhatsApp, he'd have to scroll to 2 weeks worth of images in the gallery that are scattered, unordered and difficult to identify since the thumbnails are too small on your small screen. 
+
+This app is about not only addressing these problems but to take your image and document browsing and viewing experience and make it bridged, smoother, simpler and accessible on different platforms and devices. Here you can easily join/create a group of your organization/school/college and share or browse images and documents in an organized way. 
+
+Things you can do:
+-Reorder, tag, crop, edit a batch of images/docs and send them as a single unified "post" (with a title and a tag to denote category) in a group. All the members of the group will be notified that you've posted it just like a message.
+-Favorite certain posts for easy access later
+-Filter all the posts by category/tags
+-Create/Be a part of multiple groups
+-Access the interface from multiple devices including a web browser for when your phone is away.
